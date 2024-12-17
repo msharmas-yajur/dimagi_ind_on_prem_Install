@@ -130,17 +130,16 @@ The platform is widely used by non-governmental organizations (NGOs), government
 
 ### **1.1 Server Specification Checklist**
 
-* ### **Minimum Ubuntu 20.04 LTS or 22.04 LTS**
+* Minimum Ubuntu 20.04 LTS or 22.04 LTS
 
-* ### **Root/sudo access**
+* Root/sudo access
 
-* ### **Stable internet connection**
+* Stable internet connection
 
-* ### **Firewall configuration access**
+* Firewall configuration access
 
-* ### **Public/Private key authentication setup**
+* Public/Private key authentication setup
 
-### 
 
 ### **SERVER SETUP Requirements**
 
@@ -184,6 +183,7 @@ sudo ufw allow http
 sudo ufw allow https
 
 sudo ufw enable
+
 
 **SERVERS SETUP DETAILS** 
 
